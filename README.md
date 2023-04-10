@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Data Scientist / Music Producer
+Help businesses make data-driven decisions and build AI-Powered data products
 -------------------------------
 
 * 🌍  I'm based in Tokyo, Japan
