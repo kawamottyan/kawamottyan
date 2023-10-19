@@ -1,24 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Masato Kawamoto
 =======================================================================================================================================
 
-Data Scientist / Python SQL  
-Help businesses make data-driven decisions and build AI-Powered data products
+Data Scientist / Python
 -------------------------------
 
 * 🌍  I'm based in Tokyo, Japan
-* 🖥️  See my portfolio at [Horse Race Prediction Service (Japanese)](http://keiba.herokuapp.com/)
+* 🖥️  See my portfolio at [Horse Race Prediction Service (Japanese)](https://horseracing.streamlit.app/)
 * ✉️  You can contact me at [kawamoto@kawamottyan.com](mailto:kawamoto@kawamottyan.com)
-* 🚀  I'm currently working on [Horse Race Prediction Service (Japanese)](http://keiba.herokuapp.com/)
+* 🚀  I'm currently working on [Horse Race Prediction Service (Japanese)](https://horseracing.streamlit.app/)
 * 🧠  I'm learning LTR
-* 🤝  I'm open to collaborating on NLP Projects
-* ⚡  Feel free to talk to me
 
 ### Skills
 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
@@ -27,11 +23,8 @@ Help businesses make data-driven decisions and build AI-Powered data products
 
 <p align="left">
   <a href="https://kawamottyan.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-  <a href="http://www.medium.com/@kawamottyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" />
   <a href="https://www.linkedin.com/in/masato-kawamoto-b3682715b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.facebook.com/kawamottyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/kawamottyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/kawa_mottyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
