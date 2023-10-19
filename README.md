@@ -5,7 +5,7 @@ Data Scientist / Python
 -------------------------------
 
 * 🌍  I'm based in Tokyo, Japan
-* 🖥️  See my portfolio at [Horse Race Prediction Service (Japanese)](https://horseracing.streamlit.app/)
+* 🖥️  See my portfolio at [portfolio (Japanese)](https://kawamottyan.github.io/my-portfolio/)
 * ✉️  You can contact me at [kawamoto@kawamottyan.com](mailto:kawamoto@kawamottyan.com)
 * 🚀  I'm currently working on [Horse Race Prediction Service (Japanese)](https://horseracing.streamlit.app/)
 * 🧠  I'm learning LTR
