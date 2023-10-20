@@ -27,6 +27,7 @@ Data Scientist / Python
 <!--   <a href="https://kawamottyan.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> -->
 </p>
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -36,3 +37,5 @@ Data Scientist / Python
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/kawamottyan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+-->
