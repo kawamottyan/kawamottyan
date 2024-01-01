@@ -7,7 +7,7 @@ Data Scientist / Python
 * 🌍  I'm based in Tokyo, Japan
 <!--* 🖥️  See my portfolio at [portfolio (Japanese)](https://kawamottyan.github.io/my-portfolio/)-->
 * ✉️  You can contact me at [kawamoto@kawamottyan.com](mailto:kawamoto@kawamottyan.com)
-* 🚀  I'm currently working on [movie-recommendation-system](https://kawastream.kawamottyan.com/)
+* 🚀  I'm currently working on [movie-recommendation-system](https://github.com/kawamottyan/kawastream)
 * 🧠  I'm learning LTR
 
 ### Skills
